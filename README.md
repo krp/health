@@ -2,6 +2,24 @@
 
 # Science Digest Topics
 
+### 6 - 
+
+### 5 - Jan 10 2020
+* Higher cardiorespiratory fitness associated with increases in gray matter volume.
+* More abdominal fat drives loss of fluid intelligence whereas more muscle mass protects against loss.
+* Exercise mitigates muscle mass losses during severe energy deficit by inhibiting the induction of autophagy.
+* Boys whose mothers were overweight or obese during pregnancy scored 5 or more points lower on IQ tests at age 7.
+* Omega-3 fatty acid supplementation increases blood levels of anti-inflammatory molecules for up to 24 hours after ingestion.
+* Low levels of omega-3 fatty acids are associated with early-onset coronary atherosclerosis.
+* Biological "aortic age" of the heart reduced by approximately four years in first-time marathon runners.
+* Cognitive-behavioural therapy reduces symptoms of social anxiety disorder and improves biomarkers of aging.
+* Higher physical activity halves risk of depression in a large study of more than 395,000 adults.
+* A vaccine developed to prevent tuberculosis, now also used to treat bladder cancer, reduced the incidence of Alzheimer's disease four-fold.
+* Hyperbaric oxygen therapy demonstrates efficacy in treating symptoms of Alzheimer's disease.
+* Stressed mitochondria leak DNA fragments that induce inflammation.
+
+## 2019
+
 ### 4 - Dec 27 2019
 * Yoga increases the volume of a brain region involved in learning and memory and changes several brain regions involved in emotional regulation.
 * More than half of people suffer withdrawal effects when trying to come off antidepressants.
@@ -16,7 +34,6 @@
 * FDA approves use of drug (Vascepa) to reduce risk of cardiovascular events in certain adult patient groups. (reduces triglycerides)
 * Immunization against flagellin provides protection against chronic inflammatory disease in mice.
 * Sustained weight loss in women over 50 reduces breast cancer risk.
-* 
 
 ### 3 - Dec 3 2019
 * IQs of children whose mothers consumed fish during pregnancy nearly 5 to 10 points higher than those of children whose mothers did not eat fish.
