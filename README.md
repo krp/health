@@ -2,7 +2,46 @@
 
 # Science Digest Topics
 
-### 6 - 
+### 8 - Feb 21 2020
+* When healthy, lean individuals ate a Western-style diet for one week, their hippocampal-dependent learning and memory and appetite control declined. (High refined carbs, added fats, sodium, low grains/veg/fruit).
+* Low maternal vitamin D levels in early to mid-pregnancy were associated with an increased risk for offsprint ADHD.
+* Sauna use reduces pneumonia risk in healthy, middle-aged men.
+* Weight loss and health improvements with Mediterranean, intermittent fasting, and Paleo diets.
+* Six months of aerobic exercise improved brain glucose metabolism, improved executive function, & increased cardiorespiratory fitness in older adults.
+* Many dietary supplements may be contaminated with heavy metals or microbes or may contain synthetic drugs or ingredients not listed on their labeling.
+* Japanese sake yeast supplementation improves sleep quality in a double-blind randomized controlled clinical trial.
+* Breast milk components affect infant growth and help prevent obesity in early childhood.
+* Children of women exposed to parabens during pregnancy are at greater risk of being obese.
+* Physical inactivity and sedentary behavior may be early risk factors for depression in adolescence.
+
+### 7 - Feb 7 2020
+* Sulforaphane from broccoli sprout extract improves fasting glucose and HbA1c in obese patients with poorly controlled type 2 diabetes.
+* High and low exercise intensities elicit different effects on brain function.
+* Yoga increases brain levels of the neurotransmiter GABA to reduce symptoms of depression.
+* Abdominal obesity is associated with fatal heart attacks and strokes independent of other risk factors.
+* Stress caused hair to turn prematurely gray in mice by activating noradrenaline.
+* Intranasal oxytocin spray decreased repetitive behaviors and improved social interaction in men with autism.
+* Alcohol and cigarettes may accelerate brain aging.
+* Exposure to influenza viruses during childhood may provide partial lifelong protection against distantly related influenza.
+* Sleep duration may influence children's mental health.
+* Lithium may halt the progression of Alzheimer's disease.
+* Increasing stem cell populations improves learning and memory in old mice.
+
+### 6 - Jan 24 2020
+* Eating a low-fat diet may reduce testosterone levels in men.
+* Preliminary findings suggest that women taking oral contraceptives have a smaller hypothalamus.
+* Fish oil supplementation provides protection against fine particulate air pollution.
+* Brake dust air pollution may have the same harmful effects on immune cells as diesel exhaust.
+* One night of sleep deprivation in healthy young men caused increased blood levels of tau, a protein that forms tangles in the brain.
+* Disrupted glucose metabolism may be a major contributing factor to Alzheimer's disease.
+* Fasting reduces the numbers of circulating monocytes in healthy humans and mice without compromising immune function.
+* Drinking tea at least three times a week is linked with a longer and healthier life.
+* Students who smoked were two to three times more likely to develop depression than students who never smoked.
+* Early life bacterial exposures influence immune health.
+* Alterations in gut microbial fermentation module the efficacy of exercise for diabetes prevention and management.
+* Decreasing the insulin signaling pathway and the TOR pathway increased lifespan of worms by 500 percent.
+* Meta-analysis finds that quercetin significantly lowers blood pressure.
+* 
 
 ### 5 - Jan 10 2020
 * Higher cardiorespiratory fitness associated with increases in gray matter volume.
