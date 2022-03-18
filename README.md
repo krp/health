@@ -2,6 +2,32 @@
 
 # Science Digest Topics
 
+# 58 - Jan 28 2022
+* Compound derived from walnuts and pomegranates may boost mitochondrial and muscle health.
+* Not getting enough sleep increases common cold risk.
+* Drinking tea may reduce the risk of cardiovascular disease and premature death.
+* Fiber-rich diets may reduce the risk of all causes of premature death.
+* Retinas predict biological age and risk of premature death.
+* Specialized cells in the gut differentiate between sugar and artificial sweeteners.
+* Memory reactivation during sleep enhances ability to recall faces and names.
+* Having "mono" increases risk for multiple sclerosis later in life.
+* Exercise reverses aspects of brain aging.
+* Goji berries increase carotenoid density in the eye, but supplements don't.
+
+
+# 57 - Jan 14 2022
+* Exercise preserves connections in the brain, providing protection against Alzheimer's disease.
+* Compounds produced during ketosis may slow prostate cancer growth.
+* Defensive compounds in plants may protect against Alzheimer's disease.
+* Drinking sugar-sweetened beverages increases risk of death from any cause among women with breast cancer.
+* Bedtime light exposure supresses melatonin levels in pre-school children by as much as 98 percent.
+* Doubling choline supplementation during pregnancy improved children's attention at seven years of age.
+* Shorter sleep duration promotes the intake of added sugars and carbohydrates.
+* Meditation helps the brain detect and respond to mistakes.
+* SARS-CoV-2 infection may cause autoimmune disease, especially in men.
+* Breastfeeding reduces maternal risk of cardiovascular disease later in life.
+* 
+
 ### 8 - Feb 21 2020
 * When healthy, lean individuals ate a Western-style diet for one week, their hippocampal-dependent learning and memory and appetite control declined. (High refined carbs, added fats, sodium, low grains/veg/fruit).
 * Low maternal vitamin D levels in early to mid-pregnancy were associated with an increased risk for offsprint ADHD.
