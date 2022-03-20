@@ -2,7 +2,7 @@
 
 # Science Digest Topics
 
-# 58 - Jan 28 2022
+### 58 - Jan 28 2022
 * Compound derived from walnuts and pomegranates may boost mitochondrial and muscle health.
 * Not getting enough sleep increases common cold risk.
 * Drinking tea may reduce the risk of cardiovascular disease and premature death.
@@ -15,7 +15,7 @@
 * Goji berries increase carotenoid density in the eye, but supplements don't.
 
 
-# 57 - Jan 14 2022
+### 57 - Jan 14 2022
 * Exercise preserves connections in the brain, providing protection against Alzheimer's disease.
 * Compounds produced during ketosis may slow prostate cancer growth.
 * Defensive compounds in plants may protect against Alzheimer's disease.
@@ -26,6 +26,103 @@
 * Meditation helps the brain detect and respond to mistakes.
 * SARS-CoV-2 infection may cause autoimmune disease, especially in men.
 * Breastfeeding reduces maternal risk of cardiovascular disease later in life.
+
+### 15 - May 29 2020
+* Recovered COVID-19 patients carry T-cells that might promote long-term immunity.
+* Omega-3 fatty acids decrease oxidative stress and affect biomarkers of aging.
+* Exercise improves blood flow to the brain and cognitive function in older adults.
+* Magnesium intake associated with reduced risk of coronary artery calcification.
+* Low magnesium levels associated with impaired vitamin D metabolism.
+* Aerobic exercise counters the harmful effects of consuming sugar-sweetened beverages on the endothelial function.
+* Aerobic exercise induces changes in blood flow in brain regions involved in memory.
+* Regular physical exercise reduces the incidence of dementia in a dose-dependent manner.
+* Exercise reduces risk of breast cancer recurrence and mortality among women.
+* Consumption of dairy products - especially high fat products - linked to lower risk of developing diabetes and high blood pressure.
+* Spices dampen pro-inflammatory response to a high-saturated fat, high-carbohydrate meal.
+
+### 14 - May 15 2020
+* A human monoclonal antibody shows promise against COVID-19.
+* Majority of COVID-19 patients found to be vitamin D deficient.
+* Gut bacteria use flavonoids to prime the body's immune response and protect against influenza.
+* Assessment of cardiorespiratory fitness using submaximal exercise testing predicts 5-year mortality risk beyond conventional risk factors.
+* Greater brain connectivity observed in cognitively intact adults over the age of 95 years.
+* Blood glucose control in type 2 diabetes influences COVID-19 related mortality.
+* Delayed clearance of SARS-CoV-2 in males likely due to high ACE2 expression in testes, which serve as viral reservoirs.
+* Current options for addressing cardiovascular complications of COVID-19.
+* Vitamin D can suppress cytokine storms in COVID-19 patients, reducing mortality.
+* Herpes simplex virus I promotes formation of amyloid-beta plaques in brain cells.
+
+
+### 13 - May 1 2020
+* Poor vitamin D status was prevalent among patients with acute respiratory distress syndrome.
+* Betacoronaviruses as a group, including SARS-CoV-2, produce antibodies that can either confer immunity or cross-react with other viral family members.
+* People with COVID-19 are at higher risk of complications associated with thrombotic events.
+* Omega-3 fatty acids added to intravenous feedings decrease infection risk and shorten hospital stays.
+* Omega-3 fatty acid supplementation improves behavior in children aged 8 to 16 years.
+* Omega-3 fatty acid supplementation benefits people with depression.
+* A gut-brain axis specific to glucose drives sugar preference, potentially explaining sugar cravings.
+* Zinc reduces the duration and incidence of the common cold.
+* Zinc acetate and zinc gluconate lozenges were equally effective at reducing duration of the common cold. (80-207mg/day)
+* Higher zinc status reduced incidence and duration of pneumonia among nursing home residents.
+* Omega-3 fatty acid supplementation decreased tobacco cravings in smokers.
+* 
+### 12 - Apr 17 2020
+* Chloroquine or hydroxychloroquine, when used in combination with metformin, increased risk of death in mice.
+* Exercise might protect against deadly COVID-19 complication (Acute respiratory distress syndrome - ARDS).
+* A 2008 article by Dr. Anthony Fauci identifies pneumonia as the primary cause of death for 1918 pandemic victims, raising alarms about future pandemics.
+* Daytime intermittent fasting for 30 consecutive days was associated with many health improvements.
+* Experimental antiviral drug (EIDD-2801) effective against COVID-19 in mice.
+* Recombinant form of ACE2 reduced SARS-CoV-2 infection in cultured cells.
+* SARS-CoV-2 replicates in the throat, making it more contagious than other coronaviruses.
+* Cardiac injury commonly occurs in patients with COVID-19, increasing the risk of death among patients with preexisting cardiovascular disease.
+* Exercise improved cognitive function in overweight children.
+* Seasonal variation in Nrf2 antioxidant pathway influences winter depression-like behavior in fish.
+* 
+
+
+### 11 - Apr 3 2020
+* Subgroups of children could be at greater risk of COVID-19, especially those who are younger, have respiratory problems, or are immunocompromised.
+* Some COVID-19 patients report loss of smell and taste, potentially signaling SARS-CoV-2 infiltration of the central nervous system.
+* Treatment with intravenous vitamin C reduced death rates in patients with sepsis and severe acute respiratory failure.
+* Large doses of vitamin C up to 8 grams per day might reduce duration of the common cold.
+* Vitamin C might reduce the duration of mechanical ventilation in critically ill patients.
+* Vitamin C reduces C-reactive protein among some groups of people.
+* Vitamin C increased the bioavailability of the catechins present in green tea.
+* Evidence suggests vitamin C substantially reduces bronchoconstriction caused by exercise.
+* Large doses of vitamin C might mitigate the body's stress response, thereby improving immunity. (200mg/daily for mice)
+* Vitamin C deficiency impairs fatty acid oxidation ("fat burning") during exercise.
+
+
+### 10 - Mar 20 2020
+* An open-label pilot trial found that the antimalarial drug hydroxychloroquine may be useful in the treatment of COVID-19.
+* Phase 1 clinical trial of investigational vaccine for COVID-19 begins.
+* Potential targets for immune responses to novel coronavirus have been identified, a crucial step in vaccine development.
+* US military scientists working to develop a therapeutic strategy against SARS-CoV-2
+* More than 10 percent of people with COVID-19 are infected by someone who has the SARS-CoV-2 virus but is asymptomatic.
+* Case report suggests that SARS-CoV-2 is not transmitted from pregnant mothers to their infants.
+* Brain aging emerges in a person's late 40's but dietary ketosis increases overall brain activity and stabilizes functional networks.
+* Diet-induced thermogenesis is higher after breakfast than after dinner.
+* Mental stress and lifestyle can predict lifespan.
+* Exercise benefits men about to undergo prostate cancer treatment.
+* Chronic sleep deprivation impairs immune function.
+* Healthy lifestyle reduces risk of disease and death.
+* Athletes who engage in indoor sports may be at risk for vitamin D deficiency.
+
+
+### 9 - Mar 6 2020
+* Eating earlier in the day promotes lipid oxidation (fat burning).
+* Drinking a high flavanol cocoa beverage reduced symptoms of peripheral arterial disease.
+* Adherence to the Mediterranean diet for one year promotes gut bacteria linked to healthy aging in older adults.
+* Extra virgin olive oil maintains its health-promoting properties when used for cooking.
+* Dietary olive oil may improve healthspan and delay aging by switching on the activity of sirtuins.
+* Obesity promotes diversity and virulence of influenza virus.
+* Antidepressant discontinuation triggers agitation, headaches, and flu-like symptoms.
+* The negative effects of obesity mimic the aging process.
+* Sugar-sweetened beverages linked to lipid imbalance, which increases cardiovascular disease risk.
+* Excess visceral fat promotes inflammation and drives cognitive decline.
+* Global air pollution shortens people's lives on a scale greater than warfare, other forms of violence, infection, and more.
+* Consuming diet drinks along with carbohydrates may have negative effects on the brain and metabolic health.
+* Brain tissue levels of iron during adolescence influence cognitive abilities.
 * 
 
 ### 8 - Feb 21 2020
